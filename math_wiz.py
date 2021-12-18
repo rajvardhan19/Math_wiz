@@ -1,5 +1,4 @@
 # Question Builder
-# To build random question for Adhyapan
 
 # List of Numeric Problems
 
